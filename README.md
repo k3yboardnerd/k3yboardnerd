@@ -7,11 +7,8 @@ Software Engineer, Founder, Director & CEO
 I love coding, tech, AI, security, cyber security and management.
 
 * 🌍  I'm based in Durban, South Africa
-* 🖥️  See my portfolio at [k3yboardnerd](http://k3yboardnerd.github.io)
 * ✉️  You can contact me at [k3yboardnerd@gmail.com](mailto:k3yboardnerd@gmail.com)
-* 🚀  I'm currently working on [kbn blog](http://kbnblog.onrender.com)
-* 🧠  I'm learning NextJS and Typescript
-* 🤝  I'm open to collaborating on Wifckerism.
+* 🚀  I'm currently working on [Wifckerism (Pty) Ltd](https://wifckerism.co.za)
 
 ### Skills
 
